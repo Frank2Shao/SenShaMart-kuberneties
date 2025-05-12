@@ -1,0 +1,45 @@
+Starting: node /usr/src/app/build/wallet/wallet-app.js
+Executing: node /usr/src/app/build/wallet/wallet-app.js
+undefined:7
+  "public-wallet-chain-server-peers": "["ws://miner-server-1:3002","ws://miner-server-1:3003"]",
+                                         ^
+
+SyntaxError: Expected ',' or '}' after property value in JSON at position 327
+    at JSON.parse (<anonymous>)
+    at new Config (file:///usr/src/app/build/util/config.js:16:28)
+    at file:///usr/src/app/build/wallet/wallet-app.js:43:16
+    at ModuleJob.run (node:internal/modules/esm/module_job:222:25)
+    at async ModuleLoader.import (node:internal/modules/esm/loader:316:24)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:123:5)
+
+Node.js v20.15.0
+Starting: node /usr/src/app/build/wallet/wallet-app.js
+Executing: node /usr/src/app/build/wallet/wallet-app.js
+undefined:7
+  "public-wallet-chain-server-peers": "["ws://miner-server-1:3002","ws://miner-server-1:3003"]",
+                                         ^
+
+SyntaxError: Expected ',' or '}' after property value in JSON at position 327
+    at JSON.parse (<anonymous>)
+    at new Config (file:///usr/src/app/build/util/config.js:16:28)
+    at file:///usr/src/app/build/wallet/wallet-app.js:43:16
+    at ModuleJob.run (node:internal/modules/esm/module_job:222:25)
+    at async ModuleLoader.import (node:internal/modules/esm/loader:316:24)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:123:5)
+
+Node.js v20.15.0
+Starting: node /usr/src/app/build/wallet/wallet-app.js
+Executing: node /usr/src/app/build/wallet/wallet-app.js
+undefined:7
+  "public-wallet-chain-server-peers": "["ws://miner-server-1:3002","ws://miner-server-1:3003"]",
+                                         ^
+
+SyntaxError: Expected ',' or '}' after property value in JSON at position 327
+    at JSON.parse (<anonymous>)
+    at new Config (file:///usr/src/app/build/util/config.js:16:28)
+    at file:///usr/src/app/build/wallet/wallet-app.js:43:16
+    at ModuleJob.run (node:internal/modules/esm/module_job:222:25)
+    at async ModuleLoader.import (node:internal/modules/esm/loader:316:24)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:123:5)
+
+Node.js v20.15.0

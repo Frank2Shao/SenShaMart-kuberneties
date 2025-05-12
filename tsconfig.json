@@ -10,9 +10,11 @@
     "esModuleInterop": true,
     "moduleResolution": "nodenext",
     "outDir": "build",
-    "sourceRoot": "src"
+    "sourceRoot": "src",
+    "skipLibCheck": true,
+    "lib": ["ESNext", "DOM"],
   },
   "include": [
-    "src/*/*.ts"
+    "src/**/*"
   ]
 }
